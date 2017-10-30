@@ -1,0 +1,9 @@
+C:\Users\алина\Documents\Visual Studio 2017\Projects\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csprojResolveAssemblyReference.cache
+C:\Users\алина\Documents\Visual Studio 2017\Projects\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form1.resources
+C:\Users\алина\Documents\Visual Studio 2017\Projects\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\алина\Documents\Visual Studio 2017\Projects\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.Cache
+C:\Users\алина\Documents\Visual Studio 2017\Projects\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\magia.exe
+C:\Users\алина\Documents\Visual Studio 2017\Projects\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\magia.pdb
+C:\Users\алина\Documents\Visual Studio 2017\Projects\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\magia.exe.config
+C:\Users\алина\Documents\Visual Studio 2017\Projects\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\magia.exe
+C:\Users\алина\Documents\Visual Studio 2017\Projects\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\magia.pdb
